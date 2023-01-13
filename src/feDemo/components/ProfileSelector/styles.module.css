@@ -1,0 +1,13 @@
+.profileSelector {
+    display: flex;
+    background-color: transparent; 
+    border: 1px solid  gray;
+    border-radius: 3px;
+    padding: 10px 20px;
+    gap: 10px;
+    align-items: center;
+}
+
+.profileSelector h3, .profileSelector p {
+    margin: 0;
+}

@@ -1,0 +1,5 @@
+**/*.test.js
+**/*.jsx
+node_modules
+build
+tests
